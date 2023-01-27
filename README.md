@@ -1,55 +1,57 @@
 # tech201_agile_and_scrum
 Notes on Agile and scrum 27.01.23
 ## Contents
-What Is Agile And How Does It Fit Into DevOps
+1. What Is Agile And How Does It Fit Into DevOps
 
-Agile Values And Benefits 
+2. Agile Values And Benefits 
 
-How Does Agile Benefit A Business 
+3. How Does Agile Benefit A Business 
 
-What Is The Difference Between Agile And Traditional Models 
+4. What Is The Difference Between Agile And Traditional Models 
 
-What Is Scrum And Its Benefits 
+5. What Is Scrum And Its Benefits 
 
-What Is The Difference Between Agile And Scrum 
+6. What Is The Difference Between Agile And Scrum 
 
-What Are The Artifacts 
+7. What Are The Artifacts 
 
-What Are The Three Pillars Of Scrum 
+8. What Are The Three Pillars Of Scrum 
 
-Scrum Team And Scrum Roles
+9. Scrum Team And Scrum Roles
 
-How Can We Effectively Gather Requirements 
+10. How Can We Effectively Gather Requirements 
 
-DOR And DOD What Is The Difference 
+11. DOR And DOD What Is The Difference 
 
-What Are The Three Amigos And Three C's Of Scrum 
+12. What Are The Three Amigos And Three C's Of Scrum 
 
-Summary
+13. Summary
 
 ## What Is Agile And How Does It Fit Into DevOps
 - Maintain productivity 
 - Improve teamwork flow
 - Documentation
 - Makes process of deployment smoother
-![Alt text](img1.jpg)
+
+![Alt text](pictures/img1.jpg)
 
 ## Agile Values And Benefits 
 - Individuals and Interactions over processes and tools, projects are built around motivated individuals with the support they need.​
 - Working software over comprehensive documentation, documentation when necessary.​
 - Customer collaboration over contract negotiation, explicit value is delivered to customers over every sprint.​
 - Responding to change over following a plan, The key is continual planning throughout the project
-![Alt text](pic3.jpg)
+
+![Alt text](pictures/pic3.jpg)
 ## How Does Agile Benefit A Business 
 - Improved product quality
 - Increased business value
 - Increased customer satisfaction
 - Increased adaptability
 - Increased alignment 
-![Alt text](pic2.png)
+![Alt text](pictures/pic2.png)
 
 ## What Is The Difference Between Agile And Traditional Models 
-![Alt text](pic4.jpg)
+![Alt text](pictures/pic4.jpg)
 
 ## What Is Scrum And Its Benefits 
 - Framework For Project Management
@@ -61,22 +63,29 @@ Summary
 - Scrum describes three key roles, while Agile emphasizes self-organizing teams​
 - Scrum has five living values, while Agile has four fundamental tenants​
 - Scrum has three pillars, while Agile has 12 principles
-![Alt text](pic12.png)
+![Alt text](pictures/pic12.png)
+- 
 ## What Are The Artifacts 
-![Alt text](pic11.jpg)
+![Alt text](pictures/pic11.jpg)
+
 ## What Are The Three Pillars Of Scrum 
-![Alt text](pic5.jpg)
+![Alt text](pictures/pic5.jpg)
+
 ## Scrum Team And Scrum Roles
-![Alt text](pic13.jpg)
+![Alt text](pictures/pic13.jpg)
+
 ## How Can We Effectively Gather Requirements 
-![Alt text](pic6.jpg)
+![Alt text](pictures/pic6.jpg)
+
 ## DOR And DOD What Is The Difference 
 - DOR stands for definition of ready whereas DOD stands for definition of done​
 - A ready backlog item needs to be clear , feasible and testable​
 - A done item must meet the agreed upon acceptance criteria the Product Owner 
-![Alt text](pic8.jpg)
+![Alt text](pictures/pic8.jpg)
+- 
 ## What Are The Three Amigos And Three C's Of Scrum 
-![Alt text](pic9.jpg)
+![Alt text](pictures/pic9.jpg)
+
 ## Summary
 - Implementing Scrum methodology while keeping in mind the principles of Agile results in numerous benefits to businesses ​
 - The benefits of Scrum and Agile include team satisfaction, productivity, quality, transparency and customer satisfaction​
