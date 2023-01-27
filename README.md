@@ -1,2 +1,5 @@
 # tech201_agile_and_scrum
-tech201 agile and scrum
+Notes on Agile and scrum 27.01.23
+##
+##
+##
