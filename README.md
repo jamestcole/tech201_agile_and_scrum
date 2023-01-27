@@ -47,7 +47,8 @@ Notes on Agile and scrum 27.01.23
 - Increased business value
 - Increased customer satisfaction
 - Increased adaptability
-- Increased alignment 
+- Increased alignment
+
 ![Alt text](pictures/pic2.png)
 
 ## What Is The Difference Between Agile And Traditional Models 
