@@ -41,6 +41,20 @@ Notes on Agile and scrum 27.01.23
 - Customer collaboration over contract negotiation, explicit value is delivered to customers over every sprint.​
 - Responding to change over following a plan, The key is continual planning throughout the project
 
+### The 12 principles of Agile
+- Our highest priority is to satisfy the custome, through early and continuous delivery of valuable software.
+- Welcome changeing requirements, even late in development. Agile processes harness change for he customers competitive advantage.
+- Deliver Working software frequently from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+- Business people and developers must work together daily throughout the project.
+- Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+- The most efficient and effective method of conveying information to and within a development team is face to face conversation.
+- Working software is the primary measure of progress.
+- Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace 
+indefinately.
+- Continuous attention to technical excellence and good design enhances agility.
+- Simplicity--the art of maximizing the amount of work not done--is essential.
+- The best architectures, requirements, and designs emerge from self organising teams.
+- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts is behaviour accordingly.
 ![Alt text](pictures/pic3.jpg)
 ## How Does Agile Benefit A Business 
 - Improved product quality
